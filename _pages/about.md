@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 About Me
-======
+--------
 Hi there! My name is Kimberly Llajaruna Peralta.
 
 My background: I am originally from Lima, Peru. I grew up for most of my life in Lima in the densest district of South America. I was lucky to obtain a scholarship to study my last 2 years of high school in a multicultural school in Costa Rica. After that experience, I moved to the USA to study my undergraduate studies.
@@ -19,23 +19,23 @@ Throughout my career, I have gained experience in various domains, including Mec
 My goal: to keep learning! I get interest in many many things (currently I am thinking of ways to connect ceramics and data!) I hope to make a positive change in the world
 
 Education
-======
+--------
 BS Mechanical Engineering: University of Rochester, 2020
 BA Mechanical Engineering: University of Rochester, 2020
 MS Data Science: Harvard University, 2024
 
 Skills
-======
+--------
 Code: Python, SQL, Java, MATLAB, VBA, LABVIEW, PyTorch, TensorFlow
 Design and engineering: NX, CAD, Solidworks, machinery
 Languages: Spanish (Native), English (Bilingual) and German (Basic)
 
 Experience
-======
+--------
 I have worked at Apple as a Motion Sensing Engineer where I work on R&D. Additionally, I have also worked at Amazon as a Applied Data Scientist, where I work on data generation . I also worked at Corning Inc as a Mechanical Designer.
 
 Honors
-======
+--------
 Davis United World College Scholar: Full ride scholarship for the Univeristy of Rochester
 David T. Center Scholar: for interest in inclusion and diversity
 DAAD Rise Scholar: funding to do research in Germany given by the German goverment
