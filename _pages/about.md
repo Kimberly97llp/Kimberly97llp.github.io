@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Kimberly Llajaruna](images/Presentation.jpg)
+
 About Me
 --------
 Hi there! My name is Kimberly Llajaruna Peralta.
-
-![Kimberly Llajaruna](images/500x300.png)
 
 My background: I am originally from Lima, Peru. I grew up for most of my life in Lima in the densest district of South America. I was lucky to obtain a scholarship to study my last 2 years of high school in a multicultural school in Costa Rica. After that experience, I moved to the USA to study my undergraduate studies.
 
