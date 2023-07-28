@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kimberly Llajaruna"
+# title: "Kimberly Llajaruna"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
