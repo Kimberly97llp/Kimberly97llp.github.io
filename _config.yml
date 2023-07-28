@@ -83,7 +83,7 @@ author:
   name             : "Kimberly Llajaruna Peralta"
   avatar           : "profile.png"
   bio              : "Hi there! I am originally from Lima, Peru.Throughout my career, I have gained experience in various domains, including Mechanical Engineering, Motion Sensing, and Data Science."
-  location         : "Location"
+  # location         : "Location"
   employer         :
   pubmed           : 
   googlescholar    :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/Kimberly97llp
