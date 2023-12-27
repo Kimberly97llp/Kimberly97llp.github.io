@@ -16,7 +16,7 @@ only datasets exhibit superior entity tracking
 capabilities compared to general knowledge-
 based models, while those trained on math-
 ematical reasoning exhibit challenges due to
-out-of-vocabulary symbols <br/><img src='/images/500x300_3.png'>"
+out-of-vocabulary symbols <br/><img src='/NLP.png'>"
 collection: portfolio
 ---
 
