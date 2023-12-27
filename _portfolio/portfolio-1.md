@@ -16,8 +16,7 @@ only datasets exhibit superior entity tracking
 capabilities compared to general knowledge-
 based models, while those trained on math-
 ematical reasoning exhibit challenges due to
-out-of-vocabulary symbols <br/><img src='/NLP.png'>"
+out-of-vocabulary symbols <br/><img src='images/NLP.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
