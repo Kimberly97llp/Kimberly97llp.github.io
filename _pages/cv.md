@@ -34,6 +34,7 @@ Honors
 * DAAD Rise Scholar: funding to do research in Germany given by the German goverment
 * Amazon Day One Fellow at Harvard: full ride scholarship for Master at Harvard University
 * MLAB fellow: funding to participate as a mentor to high school students in Brazil
+* Ethics Fellow at Harvard University
 
 Contact
 --------
